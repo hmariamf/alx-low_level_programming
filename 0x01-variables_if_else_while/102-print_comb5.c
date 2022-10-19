@@ -1,18 +1,15 @@
 #include <stdio.h>
-
 /**
-* main - print the string in the put function
-*
-* Description: using the main function
-* this program prints "Programming is like building a multilingual puzzle
-* Return: 0
-*/
+ * * main - program that prints all possible different
+ * combinations of 3 digits.
+ * * Return: 0
+ */
 int main(void)
 {
 char c;
 int i;
 long li;
-long long lli;
+long lli;
 float f;
 
 printf("Size of a char: %ld byte(s)\n", sizeof(c));
