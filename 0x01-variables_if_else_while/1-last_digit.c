@@ -1,7 +1,9 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/* Print the last digit of a random number*/
+/*
+ *  Print the last digit of a random number
+ *  */
 
 int main(void)
 {
